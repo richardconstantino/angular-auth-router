@@ -1,0 +1,24 @@
+{
+  "name": "auth-router",
+  "version": "1.0.0",
+  "description": "Autenticação no angularJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "karma"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "keywords": [
+    "auth",
+    "angularjs",
+    "authentication",
+    "router",
+    "ngRoute"
+  ],
+  "author": "Richard",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.8.0"
+  }
+}
